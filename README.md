@@ -31,6 +31,9 @@ In the IOTA ecosystem:
 
 **Explorer**: [View on Explorer](https://iotascan.com/testnet/object/0x95c78f7543edfedaeaa4671444b8c214bc7bdc3429d5bc93bac2b7bff6b7f242/contracts)
 
+<img width="1904" height="1071" alt="image" src="https://github.com/user-attachments/assets/ab1a0b01-1ebc-4331-9aee-9cf933c85042" />
+
+
 ## Getting Started
 
 1. Install dependencies:
