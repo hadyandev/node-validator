@@ -7,7 +7,7 @@ A decentralized validator pool application built on IOTA blockchain using Move s
 Running a validator node provides attractive rewards, but requires a **large minimum stake**.
 
 In the IOTA ecosystem:
-- Becoming a validator requires a high amount of IOTA (e.g. 1000 IOTA)
+- Becoming a validator requires a high amount of IOTA [(min 2M IOTA)]([url](https://docs.iota.org/operator/validator-node/overview))
 - Many users cannot meet this requirement individually
 - Validator rewards are only accessible to a small group
 
@@ -21,6 +21,7 @@ In the IOTA ecosystem:
 - **Reward System**: Operators earn a percentage of rewards, contributors earn proportional rewards
 - **Role-Based Interface**: Different UI for pool operators vs contributors
 - **Real-time Updates**: Live pool status and reward tracking
+- **Setup and Maintenance**: Operator prepare the required server to run node validator and maintain it
 
 
 ## Contract Address
