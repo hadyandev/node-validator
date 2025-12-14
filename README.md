@@ -26,7 +26,9 @@ In the IOTA ecosystem:
 ## Contract Address
 
 **Network**: Testnet
+
 **Package ID**: `0x95c78f7543edfedaeaa4671444b8c214bc7bdc3429d5bc93bac2b7bff6b7f242`
+
 **Explorer**: [View on Explorer](https://iotascan.com/testnet/object/0x95c78f7543edfedaeaa4671444b8c214bc7bdc3429d5bc93bac2b7bff6b7f242/contracts)
 
 ## Getting Started
